@@ -36,7 +36,7 @@ class _alcoolGasolinaState extends State<alcoolGasolina> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Alcool ou Gasolina"),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.yellow,
       ),
       body: Container(
         child: SingleChildScrollView(
